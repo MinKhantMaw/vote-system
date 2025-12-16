@@ -33,9 +33,9 @@ export const CANDIDATES = [
 ];
 
 export const GROUP_IMAGES: Record<string, string> = {
-  'Group A': './dist/images/1.jfif',
-  'Group B': './dist/images/2.jfif',
-  'Group C': './dist/images/3.jfif',
-  'Group D': './dist/images/4.jfif',
-  'Group E': './dist/images/5.jfif',
+  'Group A': '/images/1.jfif',
+  'Group B': '/images/2.jfif',
+  'Group C': '/images/3.jfif',
+  'Group D': '/images/4.jfif',
+  'Group E': '/images/5.jfif',
 };
