@@ -1,0 +1,5 @@
+{
+  "name": "Onenex Voting System",
+  "description": "A voting application for Groups A-E and Guests, with specific voting logic and constraints.",
+  "requestFramePermissions": []
+}
